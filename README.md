@@ -1,1 +1,1 @@
-# higienix.pp.ua
+Repository for a website for ukrainian privately held company Higienix (укр. Гігієнікс, http://higienix.com.ua, https://higienix.pp.ua), located in Lviv, which sells chemical products for business's and personal hygiene. Area served: Ukraine, worldwide.
